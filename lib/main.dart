@@ -32,6 +32,7 @@ class YoutubePlayerDemoApp extends StatelessWidget {
         ),
       ),
       home: MyHomePage(),
+      // home: MyHomePage(),
     );
   }
 }
